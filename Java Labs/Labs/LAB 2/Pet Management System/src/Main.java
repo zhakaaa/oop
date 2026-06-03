@@ -1,0 +1,41 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        Person john = new Employee("John", 30, "Engineer");
+        Person alice = new PhDStudent("Alice", 26, "Comp. Science", "AI");
+        Person mark = new Student("Mark", 26, "Comp. Science",3);
+        Person jack = new PhDStudent("Jack", 26, "Comp. Science","AI");
+
+        Animal murka = new Cat("Murka", 5);
+        Animal aktos = new Dog("Aktos", 5);
+
+//        john.assignPet(murka); // John owns Rex
+        john.assignPet(aktos);
+        jack.assignPet(aktos);
+
+        PersonRegistry registry = new PersonRegistry();
+        registry.addPerson(john);
+        registry.addPerson(alice);
+        registry.addPerson(mark);
+        registry.addPerson(jack);
+
+        john.leavePetWith(alice);
+//        john.leavePetWith(jack);
+        System.out.println(registry.registry());
+
+        john.retrievePetFrom(alice);
+        System.out.println(registry.registry());
+
+
+        System.out.println("\nAll information in regitsry: ");
+        registry.printAllInformation();
+        System.out.println("\nPeople without pets: ");
+        registry.peopleWithoutPets();
+        System.out.println("\nPeople with pets: ");
+        registry.peopleWithPets();
+
+    }
+}

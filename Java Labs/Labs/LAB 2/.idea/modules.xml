@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank Account System/Bank Account System.iml" filepath="$PROJECT_DIR$/Bank Account System/Bank Account System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chess Pieces/Chess Pieces.iml" filepath="$PROJECT_DIR$/Chess Pieces/Chess Pieces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Electrical Circuit System/Electrical Circuit System.iml" filepath="$PROJECT_DIR$/Electrical Circuit System/Electrical Circuit System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LAB 2.iml" filepath="$PROJECT_DIR$/.idea/LAB 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pet Management System/Pet Management System.iml" filepath="$PROJECT_DIR$/Pet Management System/Pet Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warm-Up Tasks/Warm-Up Tasks.iml" filepath="$PROJECT_DIR$/Warm-Up Tasks/Warm-Up Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warm-Up Tasks/task-1-B/task-1-B.iml" filepath="$PROJECT_DIR$/Warm-Up Tasks/task-1-B/task-1-B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warm-Up Tasks/task-1-C/task-1-C.iml" filepath="$PROJECT_DIR$/Warm-Up Tasks/task-1-C/task-1-C.iml" />
+    </modules>
+  </component>
+</project>

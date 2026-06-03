@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java OOP.iml" filepath="$PROJECT_DIR$/Java OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 1/Practice 1.iml" filepath="$PROJECT_DIR$/Practice 1/Practice 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/LAB 1/Problem 1/Problem 1.iml" filepath="$PROJECT_DIR$/Labs/LAB 1/Problem 1/Problem 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/LAB 1/Problem 2/Problem 2.iml" filepath="$PROJECT_DIR$/Labs/LAB 1/Problem 2/Problem 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/LAB 1/Problem 3/Problem 3.iml" filepath="$PROJECT_DIR$/Labs/LAB 1/Problem 3/Problem 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/LAB 1/Problem 5/Problem 5.iml" filepath="$PROJECT_DIR$/Labs/LAB 1/Problem 5/Problem 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/LAB 1/Problem4/Problem4.iml" filepath="$PROJECT_DIR$/Labs/LAB 1/Problem4/Problem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 1/task 2/task 2.iml" filepath="$PROJECT_DIR$/Practice 1/task 2/task 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 1/task 3/task 3.iml" filepath="$PROJECT_DIR$/Practice 1/task 3/task 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 1/task 4/task 4.iml" filepath="$PROJECT_DIR$/Practice 1/task 4/task 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 1/task 5/task 5.iml" filepath="$PROJECT_DIR$/Practice 1/task 5/task 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 1/task 6/task 6.iml" filepath="$PROJECT_DIR$/Practice 1/task 6/task 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 2/task1/task1.iml" filepath="$PROJECT_DIR$/Practice 2/task1/task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 2/task2/task2.iml" filepath="$PROJECT_DIR$/Practice 2/task2/task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 2/task3/task3.iml" filepath="$PROJECT_DIR$/Practice 2/task3/task3.iml" />
+    </modules>
+  </component>
+</project>
